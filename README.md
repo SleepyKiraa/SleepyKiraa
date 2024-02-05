@@ -20,6 +20,9 @@
 <h1 align="center">Knowledge :3</h1>
 <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&labelColor=%23512BD4&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-green?style=for-the-badge&logo=cplusplus&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/JS-%234B4B77?style=for-the-badge&logo=javascript&labelColor=%234B4B77&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
+ <br>
+ <img alt="Static Badge" src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
+
 
 </p>
 </body>
