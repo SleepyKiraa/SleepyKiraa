@@ -16,6 +16,6 @@
 <li>
   <b>Favorite Game:</b> Borderlands 2
 </li>
-<br>
+<br><br><br>
 <h1 align="center">Knowledge :3</h1>
 </body>
