@@ -24,5 +24,5 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/ADOBE%20AFTER%20EFFECTS-%230058CC?style=for-the-badge&logo=adobeaftereffects&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
 </p>
 <br>
-<h1 alighn="center">Contact📇</h1>
+<h1 align="center">Contact📇</h1>
 </body>
