@@ -25,5 +25,7 @@
 </p>
 <br>
 <h1 align="center">Contact📇</h1>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
+    <p align="center">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
+    </p>
 </body>
