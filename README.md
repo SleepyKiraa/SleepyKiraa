@@ -14,7 +14,7 @@
   <b>Hobbys:</b> Game Development, Programming, Gaming
 </li>
 <li>
-  <b>Favorite Game:</b> Borderlands 2
+  <b>Favorite Games:</b> Borderlands 2, Minecraft, Fallout 3
 </li>
 <br>
 <h1 align="center">Knowledge 🖥️</h1>
