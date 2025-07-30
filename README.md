@@ -14,7 +14,7 @@
   <b>Hobbys:</b> Game Development, Programming, Gaming
 </li>
 <li>
-  <b>Favorite Games:</b> Borderlands 2, Minecraft, Fallout 3
+  <b>Favorite Games:</b> Borderlands 2, Minecraft, Fallout 3, The Binding of Isaac Rebirth
 </li>
 <br>
 <h1 align="center">Knowledge 🖥️</h1>
