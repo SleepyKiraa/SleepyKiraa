@@ -1,37 +1,35 @@
-<body>
-  <center>
-<h1 align="center">About Me :3</h1>
-<li>
-  <b>Name:</b> Kira
-</li>
-<li>
-  <b>I Love:</b> anime, osu
-</li>
-<li>
-  <b>Gender:</b> Female 🏳️‍⚧️
-</li>
-<li>
-  <b>Hobbys:</b> Game Development, Programming, Gaming
-</li>
-<li>
-  <b>Favorite Games:</b> Borderlands 2, Minecraft, Fallout 3, The Binding of Isaac Rebirth
-</li>
+# About Me :3
+
+- **Name:** Kira
+- **I Love:** anime, osu
+- **Gender:** Female 🏳️‍⚧️
+- **Hobbys:** Game Development, Programming, Gaming
+- **Favorite Games:** Borderlands 2, Minecraft, Fallout 3, The Binding of Isaac Rebirth
+
+---
+
+# Knowledge 🖥️
+
+<p align="center">
+
+[![C#](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&labelColor=%23512BD4)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![C++](https://img.shields.io/badge/C%2B%2B-green?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JS-%234B4B77?style=for-the-badge&logo=javascript&labelColor=%234B4B77)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua)](https://www.lua.org/)
 <br>
-<h1 align="center">Knowledge 🖥️</h1>
-<p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&labelColor=%23512BD4&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
- <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-green?style=for-the-badge&logo=cplusplus&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/JS-%234B4B77?style=for-the-badge&logo=javascript&labelColor=%234B4B77&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge"  
-                                                                                                                                                                                                                              <a href="lua.org">
-  src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
-</a>
- <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/ADOBE%20AFTER%20EFFECTS-%230058CC?style=for-the-badge&logo=adobeaftereffects&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
-<a href="https://www.rust-lang.org/">
-  <img src="https://img.shields.io/badge/rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=%23000000">
-</a>
+[![After Effects](https://img.shields.io/badge/ADOBE%20AFTER%20EFFECTS-%230058CC?style=for-the-badge&logo=adobeaftereffects)](https://www.adobe.com/products/aftereffects.html)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Rust](https://img.shields.io/badge/rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=%23000000)](https://www.rust-lang.org/)
+
 </p>
-<br>
-<h1 align="center">Contact📇</h1>
-    <p align="center"> 
-      <a href="https://www.discordapp.com/users/827293849331957760" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
-    </p>
-</body>
+
+---
+
+# Contact 📇
+
+<p align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=%23FFFFFF)](https://www.discordapp.com/users/827293849331957760)
+
+</p>
