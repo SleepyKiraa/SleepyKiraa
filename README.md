@@ -22,6 +22,7 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-green?style=for-the-badge&logo=cplusplus&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/JS-%234B4B77?style=for-the-badge&logo=javascript&labelColor=%234B4B77&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
  <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/ADOBE%20AFTER%20EFFECTS-%230058CC?style=for-the-badge&logo=adobeaftereffects&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges"> <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2FIleriayo%2Fmarkdown-badges">
+  <img src="https://img.shields.io/badge/rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=%23000000">
 </p>
 <br>
 <h1 align="center">Contact📇</h1>
